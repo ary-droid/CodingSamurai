@@ -2,7 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+You can see the website live at: https://lifemade-easierby.netlify.app/
 
 ABOUT THIS PROJECT-:
 
@@ -10,3 +10,4 @@ ABOUT THIS PROJECT-:
   2. Built a To-Do List application to make a list of daily works written down in one place.
   3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
  
+
